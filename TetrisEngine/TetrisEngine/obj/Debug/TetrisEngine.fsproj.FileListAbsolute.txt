@@ -1,0 +1,11 @@
+C:\Projects\DonRolling\Tetris\TetrisEngine\TetrisEngine\bin\Debug\TetrisEngine.XML
+C:\Projects\DonRolling\Tetris\TetrisEngine\TetrisEngine\bin\Debug\TetrisEngine.dll
+C:\Projects\DonRolling\Tetris\TetrisEngine\TetrisEngine\bin\Debug\TetrisEngine.pdb
+C:\Projects\DonRolling\Tetris\TetrisEngine\TetrisEngine\bin\Debug\FSharp.Core.dll
+C:\Projects\DonRolling\Tetris\TetrisEngine\TetrisEngine\bin\Debug\FSharp.Core.xml
+C:\Projects\DonRolling\Tetris\TetrisEngine\TetrisEngine\obj\Debug\TetrisEngine.dll
+C:\Projects\DonRolling\Tetris\TetrisEngine\TetrisEngine\obj\Debug\TetrisEngine.pdb
+G:\Projects\Tetris\TetrisEngine\TetrisEngine\bin\Debug\TetrisEngine.XML
+G:\Projects\Tetris\TetrisEngine\TetrisEngine\obj\Debug\TetrisEngine.fsprojAssemblyReference.cache
+G:\Projects\Tetris\TetrisEngine\TetrisEngine\obj\Debug\TetrisEngine.dll
+G:\Projects\Tetris\TetrisEngine\TetrisEngine\obj\Debug\TetrisEngine.pdb
